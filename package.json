@@ -1,7 +1,7 @@
 {
   "name": "webpack-es-starter",
   "version": "1.0.0",
-  "description": "This is a Webpack + ES starter project.",
+  "description": "This is a starter project for creating a Webpack + ES project.",
   "main": "src/app.js",
   "scripts": {
     "dev": "webpack-dev-server --mode=development",
